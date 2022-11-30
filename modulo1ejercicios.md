@@ -22,3 +22,4 @@ programamos el botón A:
 Al presionarse el botón A
 mostrar número (temperatura (ºC))
 ![Captura desde 2022-11-30 09-15-10](https://user-images.githubusercontent.com/114906901/204751910-b4137a98-bd29-42bf-a885-87c2f3895596.png)
+enlace:[archivo](https://github.com/darkrayo97/microbit/blob/cf58898c0894c5cf16dbc47925a8e8ad0e0b0286/microbit-modulo1ejercicio2.hex)
