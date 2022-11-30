@@ -6,5 +6,6 @@ las siglas en ingles de science,technology,engineering,arts,mathematics
 
 microbit es una placa programable, con procesador y otros componentes que la covierten en una pequeña computadora para progarmar de forma sencialla
 
+# ejercicios del modulo 1
 [ejercicios-modulo-1](https://github.com/darkrayo97/microbit/blob/21aafe2d93faac8c3d742a9fe1636df73850ce08/modulo1ejercicios.md)
 
