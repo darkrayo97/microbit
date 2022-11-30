@@ -23,3 +23,11 @@ Al presionarse el botón A
 mostrar número (temperatura (ºC))
 ![Captura desde 2022-11-30 09-15-10](https://user-images.githubusercontent.com/114906901/204751910-b4137a98-bd29-42bf-a885-87c2f3895596.png)
 enlace:[archivo](https://github.com/darkrayo97/microbit/blob/cf58898c0894c5cf16dbc47925a8e8ad0e0b0286/microbit-modulo1ejercicio2.hex)
+
+# ejercicio3
+Por último, detallamos los pasos a seguir para mostrar en pantalla un icono si
+agitamos la Micro:bit.
+Para completar la actividad seguimos el esquema de bloques con el que
+programamos si la placa detecta que la hemos agitado:
+Sí “agitado”
+mostrar icono (icono)![Captura desde 2022-11-30 09-14-15](https://user-images.githubusercontent.com/114906901/204753498-34f520d3-e380-46fa-9533-dae0d498b751.png)
