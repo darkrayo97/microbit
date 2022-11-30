@@ -9,3 +9,4 @@ Al presionarse el botón A
  mostrar LEDs (cara feliz)
 Al presionarse el botón B
  mostrar LEDs (cara triste)![Captura desde 2022-11-30 09-15-37](https://user-images.githubusercontent.com/114906901/204747385-dbdaf4ee-42da-4251-a37c-404541578611.png)
+microbit-modulo1ejercicio1 .hex
