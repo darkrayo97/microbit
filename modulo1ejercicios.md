@@ -31,3 +31,4 @@ Para completar la actividad seguimos el esquema de bloques con el que
 programamos si la placa detecta que la hemos agitado:
 Sí “agitado”
 mostrar icono (icono)![Captura desde 2022-11-30 09-14-15](https://user-images.githubusercontent.com/114906901/204753498-34f520d3-e380-46fa-9533-dae0d498b751.png)
+enlace:[archivo](https://github.com/darkrayo97/microbit/blob/c06cc0632e4be6261b6fa4f2096ea8dee47cdb98/microbit-modulo1ejercicio3.hex)
