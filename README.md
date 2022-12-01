@@ -8,4 +8,6 @@ microbit es una placa programable, con procesador y otros componentes que la cov
 
 # ejercicios del modulo 1
 [ejercicios-modulo-1](https://github.com/darkrayo97/microbit/blob/21aafe2d93faac8c3d742a9fe1636df73850ce08/modulo1ejercicios.md)
+
+
 ![Captura desde 2022-12-01 10-07-49](https://user-images.githubusercontent.com/114906901/205011978-be4afcd2-af11-4a76-808a-20fb289c4865.png)
