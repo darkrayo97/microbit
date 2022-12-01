@@ -13,5 +13,6 @@ microbit es una placa programable, con procesador y otros componentes que la cov
 [wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
 
-#licencias
+# licencias
+
 ![Captura desde 2022-12-01 10-07-49](https://user-images.githubusercontent.com/114906901/205011978-be4afcd2-af11-4a76-808a-20fb289c4865.png)
