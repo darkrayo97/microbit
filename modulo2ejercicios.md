@@ -1,4 +1,5 @@
  actividad 1
+ 
  Si “agitado:
 mostrar icono (cuadrado)
 mostrar icono (rombo)
@@ -10,6 +11,7 @@ mostrar icono (rombo)
  [enlace](https://github.com/darkrayo97/microbit/blob/9c3437d569f7dab636661ca7ba815dfe28a2be79/microbit-iu.hex)
 
 actividad 2
+
 Si “agitado:
 mostrar icono (cuadrado)
 mostrar icono (rombo)
