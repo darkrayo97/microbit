@@ -1,4 +1,4 @@
- actividad 1
+ # actividad 1
  
  Si “agitado:
 mostrar icono (cuadrado)
@@ -10,7 +10,7 @@ mostrar icono (rombo)
  
  [enlace](https://github.com/darkrayo97/microbit/blob/9c3437d569f7dab636661ca7ba815dfe28a2be79/microbit-iu.hex)
 
-actividad 2
+# actividad 2
 
 Si “agitado:
 mostrar icono (cuadrado)
@@ -23,7 +23,7 @@ mostrar número “escoger al azar de 1 a 6”
 
 [enlace](https://github.com/darkrayo97/microbit/blob/b824fd1f8d0fcd5845371485a70aac3e26609695/microbit-iu%20(2).hex)
 
-ejercicio 3
+# ejercicio 3
 
 
 Como último ejercicio, se nos pide que toquemos en la placa la primera parte de
