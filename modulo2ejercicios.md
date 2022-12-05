@@ -21,4 +21,4 @@ mostrar número “escoger al azar de 1 a 6”
 
 ![Captura desde 2022-12-05 08-45-35](https://user-images.githubusercontent.com/114906901/205582801-c9ef4b1a-60da-48cf-99de-ca2652ed4a2e.png)
 
-[enlace](https://github.com/darkrayo97/microbit/blob/01e4d37b58c8e85480cd9116835e1f82bc4b3fa9/microbit-iu%20(1).hex)
+[enlace]
