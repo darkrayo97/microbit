@@ -8,6 +8,7 @@ microbit es una placa programable, con procesador y otros componentes que la cov
 
 # modulos
 [ejercicios-modulo-1](https://github.com/darkrayo97/microbit/blob/21aafe2d93faac8c3d742a9fe1636df73850ce08/modulo1ejercicios.md)
+[ejercicios-modulo-2](microbit/modulo2ejercicios.md)
 
 # referencia
 [wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
