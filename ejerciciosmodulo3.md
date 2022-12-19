@@ -41,21 +41,31 @@ lo que ya tenemos en mente el algoritmo a usar:
 ● Si se presiona el botón A, mover la imagen a la izquierda (es decir,
 modificar el valor de offset, disminuyéndolo para que la imagen se mueva
 a la izquierda).
+
 ● Si se presiona el botón B, mover la imagen a la derecha (aumentando el
 valor de offset).
+
 ● Por último, representar la imagen en la posición indicada por el offset.
 En cuanto a la abstracción, analizando los demás retos podemos utilizar algunos
 de los conocimientos adquiridos durante los módulos 1 y 2 del curso:
+
 ●Bloques de variable para calcular el movimiento de la imagen y para
 almacenar la imagen grande.
+
 ●Bloques de imágenes para crear una imagen grande y para representarla,
 controlando la posición (intervalo).
+
 Con lo que debemos descartar el uso del resto de bloques aprendidos hasta
 ahora, como los bloques de música o bucles.
 Para terminar, codificamos, es decir, utilizamos los bloques para construir
 nuestro programa. Replicaremos el programa de la actividad 1 para calcular la
-variable “offset” (el intervalo). Además, crearemos una imagen grande, la
+variable “offset” (el intervalo).
+
+Además, crearemos una imagen grande, la
 almacenaremos en una variable y la representaremos (de manera continua, en el
-bloque “para siempre”) con el intervalo calculado.
+bloque “para siempre”) 
+
+con el intervalo calculado.
 El programa quedaría como se muestra a continuación
 ![Captura](https://user-images.githubusercontent.com/114906901/208539476-dfcd859b-eec5-480d-b271-14b09fe2b922.PNG)
+[archivo](https://github.com/darkrayo97/microbit/blob/af7e87f419ebd2dc37da964bc64a5ecba933cc53/microbit-modulo3%20(1).hex)
