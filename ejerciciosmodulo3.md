@@ -12,3 +12,7 @@ valor inicial de, por ejemplo, 3.
 cambio de la variable al presionar los botones A y B. Realizaremos estos
 cambios utilizando los bloques “cambiar variable por”, sumando 1 al
 presionar botón B, y sumando -1 al presionar el botón A.
+
+
+
+[archivo ampliado]!(https://github.com/darkrayo97/microbit/blob/27b7f9007492db7b448f412a5b81b3052f2326d4/microbit-modulo31.hex)
