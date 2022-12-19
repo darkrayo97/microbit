@@ -26,3 +26,5 @@ Los números superiores a 9 no se quedarán fijos en la pantalla, pero pueden vo
 Puedes reiniciar el contador pulsando los botones A y B a la vez.
 
 ![Captura](https://user-images.githubusercontent.com/114906901/208547131-b9717296-d5cb-4b21-9ce8-31f28d30b33b.PNG)
+
+[archivo](https://github.com/darkrayo97/microbit/blob/dfaa45f09049eb5d6f88862cad6555833808a502/microbit-modulo3%20(2).hex)
