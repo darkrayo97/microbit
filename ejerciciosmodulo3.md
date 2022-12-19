@@ -15,4 +15,4 @@ presionar botón B, y sumando -1 al presionar el botón A.
 
 
 
-![archivo ampliado](https://github.com/darkrayo97/microbit/blob/27b7f9007492db7b448f412a5b81b3052f2326d4/microbit-modulo31.hex)
+[archivo ampliado] (https://github.com/darkrayo97/microbit/blob/27b7f9007492db7b448f412a5b81b3052f2326d4/microbit-modulo31.hex)
