@@ -17,3 +17,12 @@ Lleva el micro:bit a sitios más cálidos o fríos y verás como las lecturas de
 ![Captura](https://user-images.githubusercontent.com/114906901/208542631-2af40517-3b0d-4099-9e1c-e35a57c03a91.PNG)
 
 [archivo](https://github.com/darkrayo97/microbit/blob/c59e98dec061013628826b9c643f7f2cbed3fd0a/microbit-modulo3%20(3).hex)
+
+## contador 
+Este programa usa una variable llamada "count" (en inglés, "cuenta") para recordar la cuenta actual.
+Al empezar, la establece a 0.
+Cada vez que presionas el botón B, incrementa la variable de conteo en 1 y la muestra en la pantalla LED.
+Los números superiores a 9 no se quedarán fijos en la pantalla, pero pueden volver a mostrarse pulsando el botón A.
+Puedes reiniciar el contador pulsando los botones A y B a la vez.
+
+![Captura](https://user-images.githubusercontent.com/114906901/208547131-b9717296-d5cb-4b21-9ce8-31f28d30b33b.PNG)
