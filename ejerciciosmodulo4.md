@@ -9,5 +9,11 @@ Los autobuses y los trenes suelen usar pantallas LED con texto deslizándose par
 [archivo](https://github.com/darkrayo97/microbit/blob/740ee41d4460ddec23f62dab9dfee07e9612cb90/microbit-modulo3%20(4).hex)
 
 ## termometro
+Este programa toma medidas del sensor de temperatura integrado en el procesador, o CPU (del inglés, central processing unit, unidad central de procesamiento), para saber cómo de caliente o frío está tu micro:bit.
+La temperatura del procesador se mide en ºC (centígrados o Celsius), y es una aproximación bastante precisa de la temperatura ambiente.
+En este programa, cuando pulsas el botón A del micro:bit, éste muestra la temperatura actual de su procesador en la pantalla LED.
+Lleva el micro:bit a sitios más cálidos o fríos y verás como las lecturas de la temperatura cambian.
 
 ![Captura](https://user-images.githubusercontent.com/114906901/208542631-2af40517-3b0d-4099-9e1c-e35a57c03a91.PNG)
+
+[archivo](https://github.com/darkrayo97/microbit/blob/c59e98dec061013628826b9c643f7f2cbed3fd0a/microbit-modulo3%20(3).hex)
