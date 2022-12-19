@@ -7,3 +7,7 @@ Los autobuses y los trenes suelen usar pantallas LED con texto deslizándose par
 ![Captura](https://user-images.githubusercontent.com/114906901/208541953-e5ebc1fb-ffec-4d89-bd77-1a1e69c8dc6e.PNG)
 
 [archivo](https://github.com/darkrayo97/microbit/blob/740ee41d4460ddec23f62dab9dfee07e9612cb90/microbit-modulo3%20(4).hex)
+
+## termometro
+
+![Captura](https://user-images.githubusercontent.com/114906901/208542631-2af40517-3b0d-4099-9e1c-e35a57c03a91.PNG)
