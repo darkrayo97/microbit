@@ -3,4 +3,4 @@
 - [click para ir a ver el video](https://youtu.be/qWCt_yxnsVc)
 
 
--[hacer click para descargar video](https://github.com/darkrayo97/microbit/blob/232d4db84219437564ef2c186849c7aabcdad189/bb.mp4)
+- [hacer click para descargar video](https://github.com/darkrayo97/microbit/blob/232d4db84219437564ef2c186849c7aabcdad189/bb.mp4)
