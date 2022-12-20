@@ -1,4 +1,4 @@
-## este es el proyecto que he creado un contador en el que os voy a contar como funciona
+# este es mi proyecto que he creado un contador en el que os voy a contar como funciona
 
 - [click para ir a ver el video](https://youtu.be/qWCt_yxnsVc)
 
